@@ -1,0 +1,32 @@
+{
+  "name": "blitztools-app",
+  "version": "1.0.0",
+  "description": "Free browser-based image & PDF tools. No uploads, no servers — everything runs in your browser using WebAssembly.",
+  "homepage": "https://blitztools.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsvvsolsllc/blitztools-app"
+  },
+  "keywords": [
+    "pdf-tools",
+    "image-tools",
+    "webassembly",
+    "browser-tools",
+    "pdf-merge",
+    "pdf-compress",
+    "image-compress",
+    "image-resize",
+    "image-converter",
+    "video-converter",
+    "ai-tools",
+    "privacy",
+    "client-side",
+    "free-tools",
+    "blitztools"
+  ],
+  "author": "JSVV SOLS LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsvvsolsllc/blitztools-app/issues"
+  }
+}
