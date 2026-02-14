@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://blitztools.app">
-    <img src="https://blitztools.app/logo.png" alt="BlitzTools" width="120" />
+  <a href="https://mioffice.ai">
+    <img src="https://mioffice.ai/logo.png" alt="MiOffice" width="120" />
   </a>
 </p>
 
 <h1 align="center">
-  <a href="https://blitztools.app">BlitzTools</a>
+  <a href="https://mioffice.ai">MiOffice</a>
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://blitztools.app"><img src="https://img.shields.io/badge/Website-blitztools.app-0B65C2?style=for-the-badge" alt="BlitzTools.app" /></a>
+  <a href="https://mioffice.ai"><img src="https://img.shields.io/badge/Website-mioffice.ai-0B65C2?style=for-the-badge" alt="MiOffice.app" /></a>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -21,17 +21,17 @@
 </p>
 
 <p align="center">
-  <a href="https://blitztools.app">🌐 Visit BlitzTools.app</a> •
-  <a href="https://blitztools.app/tools/pdf/merge">PDF Tools</a> •
-  <a href="https://blitztools.app/tools/image/compress">Image Tools</a> •
-  <a href="https://blitztools.app/tools/ai/remove-object">AI Tools</a>
+  <a href="https://mioffice.ai">🌐 Visit MiOffice.app</a> •
+  <a href="https://mioffice.ai/tools/pdf/merge">PDF Tools</a> •
+  <a href="https://mioffice.ai/tools/image/compress">Image Tools</a> •
+  <a href="https://mioffice.ai/tools/ai/remove-object">AI Tools</a>
 </p>
 
 ---
 
-## What is BlitzTools?
+## What is MiOffice?
 
-[**BlitzTools**](https://blitztools.app) is a free, browser-based file processing platform with **66+ tools** for PDF, image, video, and AI-powered operations. Everything runs **100% client-side** using WebAssembly — your files never leave your device.
+[**MiOffice**](https://mioffice.ai) is a free, browser-based file processing platform with **66+ tools** for PDF, image, video, and AI-powered operations. Everything runs **100% client-side** using WebAssembly — your files never leave your device.
 
 No uploads. No servers. No subscriptions. Just tools that work.
 
@@ -41,69 +41,69 @@ No uploads. No servers. No subscriptions. Just tools that work.
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **Image Compressor** | Compress images without quality loss | [Open Tool](https://blitztools.app/tools/image/compress) |
-| **Image Resizer** | Resize images to any dimension | [Open Tool](https://blitztools.app/tools/image/resize) |
-| **Image Cropper** | Crop images with precision controls | [Open Tool](https://blitztools.app/tools/image/crop) |
-| **Image Converter** | Convert between PNG, JPG, WebP, GIF, BMP, TIFF | [Open Tool](https://blitztools.app/tools/image/convert) |
-| **WebP to PNG** | Convert WebP images to PNG format | [Open Tool](https://blitztools.app/tools/image/webp-to-png) |
-| **WebP to JPG** | Convert WebP images to JPG format | [Open Tool](https://blitztools.app/tools/image/webp-to-jpg) |
-| **JPG to WebP** | Convert JPG images to WebP format | [Open Tool](https://blitztools.app/tools/image/jpg-to-webp) |
-| **PNG to JPG** | Convert PNG images to JPG format | [Open Tool](https://blitztools.app/tools/image/png-to-jpg) |
-| **Image to PDF** | Convert images to PDF documents | [Open Tool](https://blitztools.app/tools/image/to-pdf) |
-| **Bulk Image Resize** | Resize multiple images at once | [Open Tool](https://blitztools.app/tools/image/bulk-resize) |
+| **Image Compressor** | Compress images without quality loss | [Open Tool](https://mioffice.ai/tools/image/compress) |
+| **Image Resizer** | Resize images to any dimension | [Open Tool](https://mioffice.ai/tools/image/resize) |
+| **Image Cropper** | Crop images with precision controls | [Open Tool](https://mioffice.ai/tools/image/crop) |
+| **Image Converter** | Convert between PNG, JPG, WebP, GIF, BMP, TIFF | [Open Tool](https://mioffice.ai/tools/image/convert) |
+| **WebP to PNG** | Convert WebP images to PNG format | [Open Tool](https://mioffice.ai/tools/image/webp-to-png) |
+| **WebP to JPG** | Convert WebP images to JPG format | [Open Tool](https://mioffice.ai/tools/image/webp-to-jpg) |
+| **JPG to WebP** | Convert JPG images to WebP format | [Open Tool](https://mioffice.ai/tools/image/jpg-to-webp) |
+| **PNG to JPG** | Convert PNG images to JPG format | [Open Tool](https://mioffice.ai/tools/image/png-to-jpg) |
+| **Image to PDF** | Convert images to PDF documents | [Open Tool](https://mioffice.ai/tools/image/to-pdf) |
+| **Bulk Image Resize** | Resize multiple images at once | [Open Tool](https://mioffice.ai/tools/image/bulk-resize) |
 
 ## 📄 PDF Tools
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **Merge PDF** | Combine multiple PDF files into one | [Open Tool](https://blitztools.app/tools/pdf/merge) |
-| **Split PDF** | Split PDF into individual pages or ranges | [Open Tool](https://blitztools.app/tools/pdf/split) |
-| **Compress PDF** | Reduce PDF file size | [Open Tool](https://blitztools.app/tools/pdf/compress) |
-| **DOC to PDF** | Convert Word documents to PDF | [Open Tool](https://blitztools.app/tools/pdf/doc-to-pdf) |
-| **XLSX to PDF** | Convert Excel spreadsheets to PDF | [Open Tool](https://blitztools.app/tools/pdf/xlsx-to-pdf) |
-| **PDF to Images** | Convert PDF pages to images | [Open Tool](https://blitztools.app/tools/pdf/to-images) |
-| **Rotate PDF** | Rotate PDF pages | [Open Tool](https://blitztools.app/tools/pdf/rotate) |
-| **Protect PDF** | Add password protection to PDF | [Open Tool](https://blitztools.app/tools/pdf/protect) |
-| **Unlock PDF** | Remove password from PDF | [Open Tool](https://blitztools.app/tools/pdf/unlock) |
-| **PDF Editor** | Edit PDF documents in the browser | [Open Tool](https://blitztools.app/tools/pdf/editor) |
+| **Merge PDF** | Combine multiple PDF files into one | [Open Tool](https://mioffice.ai/tools/pdf/merge) |
+| **Split PDF** | Split PDF into individual pages or ranges | [Open Tool](https://mioffice.ai/tools/pdf/split) |
+| **Compress PDF** | Reduce PDF file size | [Open Tool](https://mioffice.ai/tools/pdf/compress) |
+| **DOC to PDF** | Convert Word documents to PDF | [Open Tool](https://mioffice.ai/tools/pdf/doc-to-pdf) |
+| **XLSX to PDF** | Convert Excel spreadsheets to PDF | [Open Tool](https://mioffice.ai/tools/pdf/xlsx-to-pdf) |
+| **PDF to Images** | Convert PDF pages to images | [Open Tool](https://mioffice.ai/tools/pdf/to-images) |
+| **Rotate PDF** | Rotate PDF pages | [Open Tool](https://mioffice.ai/tools/pdf/rotate) |
+| **Protect PDF** | Add password protection to PDF | [Open Tool](https://mioffice.ai/tools/pdf/protect) |
+| **Unlock PDF** | Remove password from PDF | [Open Tool](https://mioffice.ai/tools/pdf/unlock) |
+| **PDF Editor** | Edit PDF documents in the browser | [Open Tool](https://mioffice.ai/tools/pdf/editor) |
 
 ## 🤖 AI-Powered Tools
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **AI Object Removal** | Remove unwanted objects from images using AI | [Open Tool](https://blitztools.app/tools/ai/remove-object) |
-| **AI Background Removal** | Remove image backgrounds with AI | [Open Tool](https://blitztools.app/tools/ai/remove-background) |
-| **AI Face Swap** | Swap faces in images using AI | [Open Tool](https://blitztools.app/tools/ai/face-swap) |
+| **AI Object Removal** | Remove unwanted objects from images using AI | [Open Tool](https://mioffice.ai/tools/ai/remove-object) |
+| **AI Background Removal** | Remove image backgrounds with AI | [Open Tool](https://mioffice.ai/tools/ai/remove-background) |
+| **AI Face Swap** | Swap faces in images using AI | [Open Tool](https://mioffice.ai/tools/ai/face-swap) |
 
 ## 🎬 Video Tools
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **Video Compressor** | Compress video files in the browser | [Open Tool](https://blitztools.app/tools/video/compress) |
-| **Video Converter** | Convert between video formats | [Open Tool](https://blitztools.app/tools/video/convert) |
-| **Video to GIF** | Create GIFs from video clips | [Open Tool](https://blitztools.app/tools/video/to-gif) |
-| **Video Trimmer** | Trim video clips | [Open Tool](https://blitztools.app/tools/video/trim) |
+| **Video Compressor** | Compress video files in the browser | [Open Tool](https://mioffice.ai/tools/video/compress) |
+| **Video Converter** | Convert between video formats | [Open Tool](https://mioffice.ai/tools/video/convert) |
+| **Video to GIF** | Create GIFs from video clips | [Open Tool](https://mioffice.ai/tools/video/to-gif) |
+| **Video Trimmer** | Trim video clips | [Open Tool](https://mioffice.ai/tools/video/trim) |
 
 ## 📦 File Tools
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **ZIP Creator** | Create ZIP archives in the browser | [Open Tool](https://blitztools.app/tools/zip/create) |
-| **ZIP Extractor** | Extract ZIP files | [Open Tool](https://blitztools.app/tools/zip/extract) |
-| **File Converter** | Convert between file formats | [Open Tool](https://blitztools.app/tools/file/convert) |
+| **ZIP Creator** | Create ZIP archives in the browser | [Open Tool](https://mioffice.ai/tools/zip/create) |
+| **ZIP Extractor** | Extract ZIP files | [Open Tool](https://mioffice.ai/tools/zip/extract) |
+| **File Converter** | Convert between file formats | [Open Tool](https://mioffice.ai/tools/file/convert) |
 
 ---
 
-## Why BlitzTools?
+## Why MiOffice?
 
 ### 🔒 Privacy First
 Your files are processed **entirely in your browser**. Nothing is uploaded to any server. We can't see your files even if we wanted to — because they never leave your device.
 
 ### ⚡ WebAssembly Powered
-[BlitzTools](https://blitztools.app) uses cutting-edge **WebAssembly** technology for near-native processing speed directly in your browser. No software installation required.
+[MiOffice](https://mioffice.ai) uses cutting-edge **WebAssembly** technology for near-native processing speed directly in your browser. No software installation required.
 
 ### 🆓 Free & Unlimited
-No file size limits. No daily usage caps. No watermarks. No accounts required. Just open [blitztools.app](https://blitztools.app) and start processing.
+No file size limits. No daily usage caps. No watermarks. No accounts required. Just open [mioffice.ai](https://mioffice.ai) and start processing.
 
 ### 🌍 Works Everywhere
 Runs in any modern browser — Chrome, Firefox, Safari, Edge. Desktop or mobile. No plugins or extensions needed.
@@ -115,7 +115,7 @@ Client-side processing means no upload/download wait times. Your files are proce
 
 ## Tech Stack
 
-[BlitzTools](https://blitztools.app) is built with modern web technologies:
+[MiOffice](https://mioffice.ai) is built with modern web technologies:
 
 - **[Next.js](https://nextjs.org/)** — React framework with SSR and static generation
 - **[TypeScript](https://www.typescriptlang.org/)** — Type-safe development
@@ -144,7 +144,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  <a href="https://blitztools.app"><strong>🌐 Try BlitzTools Free →</strong></a>
+  <a href="https://mioffice.ai"><strong>🌐 Try MiOffice Free →</strong></a>
 </p>
 
 <p align="center">
